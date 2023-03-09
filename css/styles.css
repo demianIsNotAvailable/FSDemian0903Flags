@@ -1,0 +1,84 @@
+
+body {
+
+    display: flex;
+    flex-direction: row;
+}
+
+.flag {
+
+    height: 20em;
+    width: 32.4em;
+
+    margin-left: 5em;
+    
+    display: flex;
+    flex-direction: row;
+
+    background-color: green;
+    
+}
+
+#japon {
+
+    height: 19.8em;
+    width: 32em;
+
+    margin-left: 5em;
+
+
+    border-style: dotted;    
+    border-width: 3em;
+    border-color: purple;
+    border-radius: 50%;
+
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+
+}
+
+#rojo {
+
+    height: 100%;
+    width: 10.8em;
+
+    background-color: red;
+}
+
+#amarillo {
+
+    height: 100%;
+    width: 10.8em;
+
+    background-color: yellow;
+}
+
+#morado {
+
+    height: 100%;
+    width: 10.8em;
+
+    background-color: purple;
+}
+
+#circulo {
+
+    height: 11.88em;
+    width: 11.88em;
+
+    border-radius: 50%;
+    border-style: dashed;
+    border-width: 0.5em;
+    border-color: greenyellow;
+
+    background-color: white;
+}
+
+#test {
+
+    height: 20em;
+    width: 20em;
+    background-color: blue;
+}
